@@ -1,0 +1,1 @@
+db.system.users.remove({user:"rex"})
